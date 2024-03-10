@@ -1,37 +1,34 @@
+# Welcome to Noya Gendelman's GitHub Profile!
 ### Hi there 👋, I am Noya Competer 💻 science 🔬 and mathematic 📐 student 👩‍🎓
 
+Hello there! 👋 I Noya, a competer science and mathematic student from Israel. Welcome to my GitHub profile! Here you'll find a collection of projects, contributions, and perhaps a glimpse into my coding journey.
 
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+## About Me
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
-
-### 🛠️ Languages and tools:
-
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img height=50 src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-<img height=50 src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning deep learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**Noya-G/Noya-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Currently working as QA at Nimble.
+- 🌱 I’m currently learning competer science and mathematic.
+- 👯 I’m looking to collaborate on deep learning.
+- 📫 How to reach me: https://www.linkedin.com/in/noyagendelman/.
 
 
+## Featured Projects
 
+Here are some highlighted projects you might find interesting:
+
+1. [TourBuddy]([link-to-project](https://github.com/noy-dayan/TourBuddy)): Cutting-edge travel companion application meticulously developed as the culmination of the Programming Engineering course at Ariel University. Leveraging advanced tools including Android Studio and Firebase, TourBuddy redefines the travel experience with seamless booking, transparent reviews, and intuitive communication between tourists and guides. With a focus on user-centric design and robust database management, TourBuddy ensures 24/7 availability and reliability, empowering travelers to create unforgettable adventures. Explore the intersection of technology and exploration with TourBuddy today
+
+## My Latest Blog Posts
+
+I occasionally write about things I'm passionate about. Here are my latest blog posts:
+
+1. [TourBuddy Lunching]([link-to-post](https://www.linkedin.com/feed/update/urn:li:activity:7171467738974994433/)): Brief description of the post.
+
+
+## Get in Touch
+
+Feel free to reach out to me through the following channels:
+
+- [LinkedIn](https://www.linkedin.com/in/noyagendelman/)
+
+
+Thank you for visiting my GitHub profile! 😊
