@@ -3,6 +3,10 @@
 
 Hello! Welcome to my GitHub profile! I'm Noya, currently pursuing studies in Computer Science and Mathematics in Israel. Here you'll find a collection of my projects, contributions, and a peek into my coding journey.
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="noyagendelman" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/noyagendelman?trk=profile-badge">Noya Gendelman</a></div>
+              
+
 ## About Me
 
 - 💼 Currently employed as QA at Nimble.
